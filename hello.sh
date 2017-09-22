@@ -1,5 +1,5 @@
 #!/bin/sh
-ver="1.03"
+ver="1.06"
 echo
 echo "Hello program - version $ver"
 echo
@@ -7,4 +7,4 @@ echo
 echo "Give me your name: "
 read name
 
-echo "Hello, x$name!"
+echo "Hello, $name!"
